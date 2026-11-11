@@ -1,0 +1,8 @@
+{
+  "name": "wows-monitor-enhanced-patch",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Unofficial enhancement patch for WoWs Monitor 1.3.4",
+  "engines": { "node": ">=18" },
+  "scripts": { "check-syntax": "node --check scripts/patch.js && node --check src/custom-mod.js" }
+}

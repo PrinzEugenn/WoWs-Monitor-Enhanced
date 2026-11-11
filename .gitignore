@@ -1,0 +1,23 @@
+# Build products and original application files
+node_modules/
+*.asar
+*.asar.*
+*.exe
+*.dll
+*.pak
+*.log
+*.tmp
+*.backup
+
+# Local state and personal data
+配置备份*/
+*profile*/
+Local Storage/
+Session Storage/
+logs/
+
+# Development artifacts
+*.png
+coverage/
+.DS_Store
+Thumbs.db
