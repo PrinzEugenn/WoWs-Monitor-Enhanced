@@ -21,3 +21,6 @@ logs/
 coverage/
 .DS_Store
 Thumbs.db
+
+# Public documentation screenshots
+!docs/images/*.png

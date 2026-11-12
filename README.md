@@ -17,7 +17,21 @@ WoWs Monitor 的**非官方增强补丁**，面向 Windows 版 WoWs Monitor 1.3.
 
 舰种优先读取程序提供的数据，其次查找随补丁提供的资料快照；无法匹配的船显示 `?`。资料快照可能落后于游戏更新。资料来源见 [资源说明](NOTICE.md)。
 
+以下为模拟对局截图，玩家名称和数据均为示例。
+
+![模拟对局与双方统计](docs/images/match.png)
+
+![颜色、分档与语言设置](docs/images/settings.png)
+
 ## 安装和恢复
+
+### Windows 图形安装包（推荐）
+
+从 [Releases](https://github.com/PrinzEugenn/WoWs-Monitor-Enhanced/releases) 下载 Windows x64 ZIP，完整解压后双击 `Install.cmd`。先完全退出 WoWs Monitor（包括托盘），确认或浏览选择原版安装目录，再点击“安装”；恢复原版时点击“恢复原版”。安装包自带 Node.js，无需另外安装。非默认安装目录可能需要相应写入权限。
+
+### 手动安装
+
+
 
 1. 安装[原版 WoWs Monitor 1.3.4](https://wows-monitor.com/downloads) 和 Node.js 18 或更新版本。
 2. **完全退出 WoWs Monitor，包括系统托盘中的进程。** 下载本仓库，并在仓库目录打开 PowerShell。

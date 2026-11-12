@@ -17,7 +17,21 @@ The default tier score weights account win rate at least 80% and current-ship wi
 
 Ship type is read from application data where available, then looked up in a bundled snapshot. Unmatched ships show `?`; the snapshot may lag behind game updates. See [resource notices](NOTICE.md).
 
+The following screenshots show simulated match data.
+
+![Simulated match and team statistics](docs/images/match.png)
+
+![Color, tier and language settings](docs/images/settings.png)
+
 ## Install and restore
+
+### Windows graphical package (recommended)
+
+Download the Windows x64 ZIP from [Releases](https://github.com/PrinzEugenn/WoWs-Monitor-Enhanced/releases), extract all files, and double-click `Install.cmd`. Exit WoWs Monitor completely, including the tray process, then select its install directory and click Install. Use Restore to revert. Node.js is bundled; it does not need to be installed separately. The installation directory must be writable.
+
+### Manual installation
+
+
 
 1. Install [WoWs Monitor 1.3.4](https://wows-monitor.com/downloads) and Node.js 18 or newer.
 2. **Exit WoWs Monitor completely, including its system tray process.** Download this repository and open PowerShell in its directory.

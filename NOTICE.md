@@ -7,3 +7,5 @@
 - PR and other original application data and services remain subject to their respective providers' terms.
 
 The project’s own code and documentation are subject to [LICENSE.md](LICENSE.md); third-party resources have separate terms. No permission to redistribute the original application is implied by this notice.
+
+The Windows release package bundles Node.js 24.11.1. Its license and third-party notices are included in runtime/LICENSE; Node.js is not included in the source repository.
