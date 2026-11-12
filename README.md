@@ -19,9 +19,9 @@ WoWs Monitor 的**非官方增强补丁**，面向 Windows 版 WoWs Monitor 1.3.
 
 以下为模拟对局截图，玩家名称和数据均为示例。
 
-![模拟对局与双方统计](docs/images/match.png)
+![模拟对局与双方统计](docs/images/match-updated.png)
 
-![颜色、分档与语言设置](docs/images/settings.png)
+![颜色、分档与语言设置](docs/images/settings-updated.png)
 
 ## 安装和恢复
 

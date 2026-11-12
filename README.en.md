@@ -19,9 +19,9 @@ Ship type is read from application data where available, then looked up in a bun
 
 The following screenshots show simulated match data.
 
-![Simulated match and team statistics](docs/images/match.png)
+![Simulated match and team statistics](docs/images/match-updated.png)
 
-![Color, tier and language settings](docs/images/settings.png)
+![Color, tier and language settings](docs/images/settings-updated.png)
 
 ## Install and restore
 
